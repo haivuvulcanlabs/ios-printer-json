@@ -1,0 +1,17 @@
+{
+  "bannerEnable": true,
+  "interstitialEnable": true,
+  "interstitialNormalThreshold": 3,
+  "interstitialSignificantThreshold": 3,
+  "rewardVideoEnable": false,
+  "nativeEnable": true,
+  "advertisements": [
+    {
+      "network": "admob",
+      "bannerID": "ca-app-pub-3587889685094804/8896643127",
+      "interstitialID": "ca-app-pub-3587889685094804/6502414070",
+      "rewardVideoID": "",
+      "nativeID": ""
+    }
+  ]
+}
