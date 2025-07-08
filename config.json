@@ -1,5 +1,6 @@
 {
     "china_1": {
+        "shouldShowOnboarding": true,
         "advertisements": {
             "bannerEnable": true,
             "interstitialEnable": true,
@@ -414,6 +415,7 @@
         "lockSelectPinter": true
     },
     "china_2": {
+        "shouldShowOnboarding": true,
         "advertisements": {
             "bannerEnable": true,
             "interstitialEnable": true,
