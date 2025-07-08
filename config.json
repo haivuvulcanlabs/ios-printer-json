@@ -25,8 +25,8 @@
                 "trackingName": "DSEight-china-1",
                 "items": [
                     "weeklytrial4",
-      "weekly3",
-      "lifetime5"
+                    "weekly3",
+                    "lifetime5"
                 ],
                 "type": "direct",
                 "enabled": true
@@ -36,6 +36,30 @@
                 "trackingName": "StoreVC-china-1",
                 "items": [
                     "lifetime5",
+                    "weekly3",
+                    "weeklytrial4"
+                ],
+                "type": "store",
+                "enabled": true
+            }
+        ],
+        "storeConfigsv7": [
+            {
+                "name": "DSEight",
+                "trackingName": "DSEightVC",
+                "items": [
+                    "weeklytrial4",
+                    "weekly3",
+                    "yearly2"
+                ],
+                "type": "direct",
+                "enabled": true
+            },
+            {
+                "name": "Store",
+                "trackingName": "StoreVC",
+                "items": [
+                    "yearly2",
                     "weekly3",
                     "weeklytrial4"
                 ],
@@ -192,6 +216,169 @@
                 "isPromoted": true
             }
         ],
+        "itemconfigsv7": [
+            {
+                "item": "weekly1",
+                "title": "Weekly",
+                "format": "%@ Weekly",
+                "type": "nontrial",
+                "isPromoted": false
+            },
+            {
+                "item": "weekly2",
+                "title": "Weekly",
+                "format": "%@ Weekly",
+                "type": "nontrial",
+                "isPromoted": false
+            },
+            {
+                "item": "weekly3",
+                "title": "Weekly",
+                "format": "%@ Weekly",
+                "type": "nontrial",
+                "isPromoted": false
+            },
+            {
+                "item": "weeklytrial",
+                "title": "Weekly",
+                "format": "%@ Weekly",
+                "type": "trial",
+                "isPromoted": false
+            },
+            {
+                "item": "weeklytrial1",
+                "title": "Weekly",
+                "format": "%@ Weekly",
+                "type": "trial",
+                "isPromoted": false
+            },
+            {
+                "item": "weeklytrial2",
+                "title": "Weekly",
+                "format": "%@ Weekly",
+                "type": "trial",
+                "isPromoted": false
+            },
+            {
+                "item": "weeklytrial3",
+                "title": "Weekly",
+                "format": "%@ Weekly",
+                "type": "trial",
+                "isPromoted": false
+            },
+            {
+                "item": "weeklytrial4",
+                "title": "Weekly",
+                "format": "%@ Weekly",
+                "type": "trial",
+                "isPromoted": false
+            },
+            {
+                "item": "monthly1",
+                "title": "Monthly",
+                "format": "",
+                "type": "nontrial",
+                "isPromoted": false
+            },
+            {
+                "item": "monthly2",
+                "title": "Monthly",
+                "format": "",
+                "type": "nontrial",
+                "isPromoted": false
+            },
+            {
+                "item": "monthlytrial3",
+                "title": "Monthly",
+                "format": "%@ Monthly",
+                "type": "trial",
+                "isPromoted": false
+            },
+            {
+                "item": "monthlytrial4",
+                "title": "Monthly",
+                "format": "%@ Weekly",
+                "type": "trial",
+                "isPromoted": false
+            },
+            {
+                "item": "yearlytrial",
+                "title": "Yearly",
+                "format": "%@ Weekly",
+                "type": "trial",
+                "isPromoted": false
+            },
+            {
+                "item": "yearlytrial1",
+                "title": "Yearly",
+                "format": "%@ Yearly",
+                "type": "trial",
+                "isPromoted": false
+            },
+            {
+                "item": "yearlytrial2",
+                "title": "Yearly",
+                "format": "%@ Yearly",
+                "type": "trial",
+                "isPromoted": false
+            },
+            {
+                "item": "yearly4",
+                "title": "Yearly",
+                "format": "%@ Weekly",
+                "type": "nontrial",
+                "isPromoted": false
+            },
+            {
+                "item": "yearly1",
+                "title": "Yearly",
+                "format": "%@ Weekly",
+                "type": "nontrial",
+                "isPromoted": false
+            },
+            {
+                "item": "yearly2",
+                "title": "Yearly",
+                "format": "%@ Weekly",
+                "type": "nontrial",
+                "isPromoted": false
+            },
+            {
+                "item": "lifetime1",
+                "title": "Lifetime",
+                "format": "%@ lifetime",
+                "type": "normal",
+                "isPromoted": true
+            },
+            {
+                "item": "lifetime2",
+                "title": "Lifetime",
+                "format": "%@ lifetime",
+                "type": "normal",
+                "isPromoted": true
+            },
+            {
+                "item": "lifetime3",
+                "title": "Lifetime",
+                "format": "%@ lifetime",
+                "type": "normal",
+                "isPromoted": true
+            },
+            {
+                "item": "lifetime4",
+                "title": "Lifetime",
+                "format": "%@ lifetime",
+                "type": "normal",
+                "isPromoted": true
+            },
+            {
+                "item": "lifetime5",
+                "title": "Lifetime",
+                "format": "%@ lifetime",
+                "type": "normal",
+                "isPromoted": true
+            }
+        ],
         "intertitialAdsInterval": 45,
         "openAdsSkip": [
             "GADFullScreenAdViewController",
@@ -262,7 +449,31 @@
                 "name": "Store",
                 "trackingName": "StoreVC-china-2",
                 "items": [
-                  "lifetime5",
+                    "lifetime5",
+                    "weekly3",
+                    "weeklytrial4"
+                ],
+                "type": "store",
+                "enabled": true
+            }
+        ],
+        "storeConfigsv7": [
+            {
+                "name": "DSEight",
+                "trackingName": "DSEightVC",
+                "items": [
+                    "weeklytrial4",
+                    "weekly3",
+                    "yearly2"
+                ],
+                "type": "direct",
+                "enabled": true
+            },
+            {
+                "name": "Store",
+                "trackingName": "StoreVC",
+                "items": [
+                    "yearly2",
                     "weekly3",
                     "weeklytrial4"
                 ],
@@ -378,6 +589,169 @@
             },
             {
                 "item": "yearly4",
+                "title": "Yearly",
+                "format": "%@ Weekly",
+                "type": "nontrial",
+                "isPromoted": false
+            },
+            {
+                "item": "lifetime1",
+                "title": "Lifetime",
+                "format": "%@ lifetime",
+                "type": "normal",
+                "isPromoted": true
+            },
+            {
+                "item": "lifetime2",
+                "title": "Lifetime",
+                "format": "%@ lifetime",
+                "type": "normal",
+                "isPromoted": true
+            },
+            {
+                "item": "lifetime3",
+                "title": "Lifetime",
+                "format": "%@ lifetime",
+                "type": "normal",
+                "isPromoted": true
+            },
+            {
+                "item": "lifetime4",
+                "title": "Lifetime",
+                "format": "%@ lifetime",
+                "type": "normal",
+                "isPromoted": true
+            },
+            {
+                "item": "lifetime5",
+                "title": "Lifetime",
+                "format": "%@ lifetime",
+                "type": "normal",
+                "isPromoted": true
+            }
+        ],
+        "itemconfigsv7": [
+            {
+                "item": "weekly1",
+                "title": "Weekly",
+                "format": "%@ Weekly",
+                "type": "nontrial",
+                "isPromoted": false
+            },
+            {
+                "item": "weekly2",
+                "title": "Weekly",
+                "format": "%@ Weekly",
+                "type": "nontrial",
+                "isPromoted": false
+            },
+            {
+                "item": "weekly3",
+                "title": "Weekly",
+                "format": "%@ Weekly",
+                "type": "nontrial",
+                "isPromoted": false
+            },
+            {
+                "item": "weeklytrial",
+                "title": "Weekly",
+                "format": "%@ Weekly",
+                "type": "trial",
+                "isPromoted": false
+            },
+            {
+                "item": "weeklytrial1",
+                "title": "Weekly",
+                "format": "%@ Weekly",
+                "type": "trial",
+                "isPromoted": false
+            },
+            {
+                "item": "weeklytrial2",
+                "title": "Weekly",
+                "format": "%@ Weekly",
+                "type": "trial",
+                "isPromoted": false
+            },
+            {
+                "item": "weeklytrial3",
+                "title": "Weekly",
+                "format": "%@ Weekly",
+                "type": "trial",
+                "isPromoted": false
+            },
+            {
+                "item": "weeklytrial4",
+                "title": "Weekly",
+                "format": "%@ Weekly",
+                "type": "trial",
+                "isPromoted": false
+            },
+            {
+                "item": "monthly1",
+                "title": "Monthly",
+                "format": "",
+                "type": "nontrial",
+                "isPromoted": false
+            },
+            {
+                "item": "monthly2",
+                "title": "Monthly",
+                "format": "",
+                "type": "nontrial",
+                "isPromoted": false
+            },
+            {
+                "item": "monthlytrial3",
+                "title": "Monthly",
+                "format": "%@ Monthly",
+                "type": "trial",
+                "isPromoted": false
+            },
+            {
+                "item": "monthlytrial4",
+                "title": "Monthly",
+                "format": "%@ Weekly",
+                "type": "trial",
+                "isPromoted": false
+            },
+            {
+                "item": "yearlytrial",
+                "title": "Yearly",
+                "format": "%@ Weekly",
+                "type": "trial",
+                "isPromoted": false
+            },
+            {
+                "item": "yearlytrial1",
+                "title": "Yearly",
+                "format": "%@ Yearly",
+                "type": "trial",
+                "isPromoted": false
+            },
+            {
+                "item": "yearlytrial2",
+                "title": "Yearly",
+                "format": "%@ Yearly",
+                "type": "trial",
+                "isPromoted": false
+            },
+            {
+                "item": "yearly4",
+                "title": "Yearly",
+                "format": "%@ Weekly",
+                "type": "nontrial",
+                "isPromoted": false
+            },
+            {
+                "item": "yearly1",
+                "title": "Yearly",
+                "format": "%@ Weekly",
+                "type": "nontrial",
+                "isPromoted": false
+            },
+            {
+                "item": "yearly2",
                 "title": "Yearly",
                 "format": "%@ Weekly",
                 "type": "nontrial",
