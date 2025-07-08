@@ -1,5 +1,11 @@
 {
     "china_1": {
+         "commonSettings": {
+            "firstDayScans": 0,
+            "nextDayScans": 0,
+            "dsLaunch": true,
+            "dsOnboarding": true
+        },
         "shouldShowOnboarding": true,
         "advertisements": {
             "bannerEnable": true,
@@ -415,6 +421,12 @@
         "lockSelectPinter": true
     },
     "china_2": {
+         "commonSettings": {
+            "firstDayScans": 0,
+            "nextDayScans": 0,
+            "dsLaunch": true,
+            "dsOnboarding": true
+        },
         "shouldShowOnboarding": true,
         "advertisements": {
             "bannerEnable": true,
